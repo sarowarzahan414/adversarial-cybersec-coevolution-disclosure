@@ -25,14 +25,16 @@ This document records the blockchain timestamps created for this innovation disc
 **Proof File:** INNOVATION_DISCLOSURE.md.ots  
 **Status:** ✅ Timestamp created - Bitcoin confirmation pending (~6 hours)
 
-### Verification
+### Bitcoin Blockchain Confirmation
 
-To verify this timestamp:  
-1. Visit: https://opentimestamps.org/  
-2. Click "Info" tab  
-3. Upload the .ots proof file  
-4. Upload the original INNOVATION_DISCLOSURE.md file  
-5. View blockchain confirmation details
+**Status:** ✅ CONFIRMED  
+**Bitcoin Block:** 917990  
+**Timestamp:** 2025-10-06 ~23:00 UTC  
+**Verification Date:** 2025-10-07 10:10:41 UTC  
+**Proof File:** INNOVATION_DISCLOSURE.md (2).ots  
+
+**Verification URL:** https://opentimestamps.org/  
+**Merkle Root:** cbf6584d2eff5ba88a8289c6942df21131203fc843772eb45226f5758a1bcd4d
 
 ### Legal Significance
 
