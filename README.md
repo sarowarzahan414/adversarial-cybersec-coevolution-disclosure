@@ -36,7 +36,7 @@ Application of AlphaGo-style self-play to Cybersecurity domain, where:
 
 - **[INNOVATION_DISCLOSURE.md](INNOVATION_DISCLOSURE.md)** - Complete technical disclosure
 - **[TIMESTAMP_RECORD.md](TIMESTAMP_RECORD.md)** - Verification and timestamps
-- **`*.ots`** - OpenTimestamps blockchain proof
+- **[INNOVATION_DISCLOSURE.md.ots](INNOVATION_DISCLOSURE.md.ots)** - OpenTimestamps blockchain proof
 
 ---
 
