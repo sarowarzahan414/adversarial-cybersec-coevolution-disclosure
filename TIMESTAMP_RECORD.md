@@ -37,7 +37,7 @@ To verify this timestamp:
 ### Legal Significance
 
 This blockchain timestamp provides:  
-- ✅ **Immutable proof** of document existence at specific time  
+- ✅ **Immutable proof** of document existence at Specific time  
 - ✅ **Independent verification** via Bitcoin blockchain  
 - ✅ **Court-admissible evidence** for prior art claims  
 - ✅ **Tamper-proof record** that cannot be backdated  
@@ -61,11 +61,23 @@ This innovation is protected by:
 
 ## Archive Locations
 
-## Archive Locations
 
 - **Primary:** https://github.com/sarowarzahan414/INNOVATION_DISCLOSURE.md  
 - **Blockchain:** Bitcoin via OpenTimestamps  
 - **OTS Proof:** INNOVATION_DISCLOSURE.md.ots (keep securely stored)
 - **Wayback Machine:** https://web.archive.org/web/20251007042834/https://github.com/sarowarzahan414/INNOVATION_DISCLOSURE.md (archived: 2025-10-07 04:28:34 UTC)
 
-**This document serves as official record of blockchain timestamping for prior art purposes.**
+## Archive.org Snapshot
+
+- **Archive URL:** https://web.archive.org/web/20251007060405/https://github.com/sarowarzahan414/adversarial-cybersec-coevolution-disclosure
+- **Snapshot Date:** 2025-10-07 06:02:47 UTC
+- **Status:** ✅ Permanent archive
+
+## GitHub Commit Verification
+
+- **Commit SHA:** bc414a27753f663ce6d8da361dda4c2ab3203d84
+- **Commit Date:** 2025-10-07 06:02:47 UTC
+- **Repository:** sarowarzahan414/adversarial-cybersec-coevolution-disclosure
+- **Visibility:** Public
+
+**This document serves as Official record of blockchain timestamping for prior art purposes.**
