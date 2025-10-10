@@ -1,5 +1,7 @@
 # LICENSE
 
+**File SHA Hash:** `78e98b39a88783b90fa3c6110c4a44c6775e8429`
+
 ## Dual License Agreement
 
 **Effective Date:** October 9, 2025  
@@ -40,8 +42,13 @@
 
 ### 📝 Attribution Requirements
 
-When using this work, provide:
-Work: Adversarial Co-Evolution for Autonomous Cybersecurity Author: sarowarzahan414 Disclosure Date: October 7, 2025 DOI: 10.5281/zenodo.17286105 License: CC BY-NC-ND 4.0 Source: https://github.com/sarowarzahan414/adversarial-cybersec-coevolution-disclosure
+When using this work, provide:  
+Work: Adversarial Co-Evolution for Autonomous Cybersecurity  
+Author: sarowarzahan414  
+Disclosure Date: October 7, 2025  
+DOI: 10.5281/zenodo.17286105  
+License: CC BY-NC-ND 4.0  
+Source: https://github.com/sarowarzahan414/adversarial-cybersec-coevolution-disclosure
 
 ---
 
@@ -75,9 +82,9 @@ Any use of **"Adversarial Co-Evolution for Autonomous Cybersecurity"** for:
 **Email:** soikot07@gmail.com  
 **Subject:** "ACEAC Commercial License Inquiry"
 
-**Please include:**
-- Organization name and description
-- Intended use case and deployment scope
+**Please include:**  
+- Organization name and description  
+- Intended use case and deployment scope  
 - Timeline and technical requirements
 
 **Response time:** 2-3 business days
